@@ -24,14 +24,12 @@ body {
     flex-direction: column;
     justify-content: space-between;
 
-    /* .img-wrapper{ */
-
     img {
       width: 100%;
       aspect-ratio: 1/1;
       border-radius: 10px;
     }
-    /* } */
+
     .txt-wrapper {
       height: 131px;
       padding-inline: 16px;
