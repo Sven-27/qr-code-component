@@ -35,7 +35,7 @@ body {
       padding-inline: 16px;
       text-align: center;
 
-      h2 {
+      h1 {
         font-size: 22px;
         font-weight: 700;
         color: #1f314f;
@@ -45,7 +45,7 @@ body {
         color: #68778d;
         line-height: 1.4;
         padding-top: 20px;
-        font-size: 16px;
+        font-size: 15px;
         font-weight: 400;
       }
     }
